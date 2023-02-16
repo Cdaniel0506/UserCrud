@@ -1,0 +1,27 @@
+:root{
+    --principal-font:'Roboto', sans-serif;
+    --purple: #7f4ca5;
+    --dark-purple: #4b1c71 ; 
+    --medium-purple: #dbb6ee;
+}
+body{    
+    margin: 0;    
+}
+html{
+    box-sizing: border-box;
+    font-size:20px;
+}
+*,*::after, *::before {
+    box-sizing: inherit;
+}
+img{
+    max-width: 100%;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
